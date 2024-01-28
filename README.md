@@ -2,6 +2,7 @@
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusfm123&show_icons=true&theme=dracula&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ## Tecnologias que eu uso no meu dia
 
