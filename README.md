@@ -13,6 +13,5 @@
   <img align="center" alt="nestjs" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=CC342D" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfm123)](https://github.com/mateusfm123/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
