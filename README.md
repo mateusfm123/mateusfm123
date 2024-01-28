@@ -7,6 +7,6 @@
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=239120" />
   <img align="center" alt="nestjs" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white" />
 </div><br/>
