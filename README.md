@@ -12,3 +12,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=239120" />
   <img align="center" alt="nestjs" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=CC342D" />
 </div><br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
