@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Mateus Fernandes Matias 🖐️
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusfm123&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ## Tecnologias que eu uso no meu dia
 
